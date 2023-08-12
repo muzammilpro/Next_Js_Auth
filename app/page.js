@@ -13,10 +13,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Deploy{' '}
-            
-          </h2>
+          
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
             Instantly deploy your Next.js site to a shareable URL with Vercel.
           </p>
