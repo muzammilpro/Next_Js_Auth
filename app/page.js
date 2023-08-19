@@ -19,9 +19,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
          
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Explore starter templates for Next.js.
-          </p>
+         
         </a>
 
         <a
